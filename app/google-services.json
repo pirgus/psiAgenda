@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480513425397",
+    "project_id": "psiagenda-9ff6f",
+    "storage_bucket": "psiagenda-9ff6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480513425397:android:8cd5b4844dcd9e789f2abc",
+        "android_client_info": {
+          "package_name": "com.example.psiagenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480513425397-g5qrojntsudifugiqe1goc2t8dt7ov5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4vi6K2KKna2dakYnenBvbebtwKiUkQGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480513425397-g5qrojntsudifugiqe1goc2t8dt7ov5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
